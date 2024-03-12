@@ -1,7 +1,8 @@
 
 # Why Did I Create this Repository 
 
-[![Made-with-powerbi](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png)](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview)
+[![Made-with-powerbi](https://www.flaticon.com/free-icon/monitor_2930735?term=dashboard&page=2&position=1&origin=search&related_id=2930735)](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview)
+
 
 ## Donate a cup of coffee
 <a href="https://www.buymeacoffee.com/HZNh7w1Bm" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
