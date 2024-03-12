@@ -1,7 +1,8 @@
 
 # Why Did I Create this Repository 
 
-[![Made-with-powerbi](https://www.flaticon.com/free-icon/monitor_2930735?term=dashboard&page=2&position=1&origin=search&related_id=2930735)](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview)
+[![Made-for-powerbi](https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Desktop.svg)](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview)
+
 
 
 ## Donate a cup of coffee
